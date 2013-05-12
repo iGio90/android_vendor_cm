@@ -132,6 +132,7 @@ PRODUCT_PACKAGES += \
     Camera \
     Development \
     LatinIME \
+    Trebuchet \
     su
 
 # Optional CM packages
